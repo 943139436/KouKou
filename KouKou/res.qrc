@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Background_res/0.jpg</file>
+        <file>Background_res/1.jpg</file>
+        <file>Background_res/2.jpg</file>
+        <file>Background_res/3.jpg</file>
+        <file>Background_res/4.jpg</file>
+        <file>Background_res/5.jpg</file>
+        <file>Background_res/6.jpg</file>
+        <file>Background_res/7.jpg</file>
+        <file>Background_res/8.jpg</file>
+        <file>Background_res/9.jpg</file>
+        <file>Background_res/10.jpg</file>
+        <file>Background_res/11.jpg</file>
+        <file>Background_res/Logo.jpg</file>
+    </qresource>
+</RCC>
